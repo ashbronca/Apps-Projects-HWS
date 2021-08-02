@@ -21,7 +21,7 @@ struct ContentView: View {
         guard let value = inputFormatter.number(from: temperature) else { return nil } // optional to check the input temp - else return nothing
 
         let inputTemp = Measurement(value: value.doubleValue, unit: inputUnit) // declare the input temp measurement value - converted to a double - using the input unit selected
-        let outputTemp = inputTemp.converted(to: outputUnit) // declaure the output temp as input temp cnverted to output unit
+        let outputTemp = inputTemp.converted(to: outputUnit) // declaure the output temp as input temp converted to output unit
 
         let outputformatter = MeasurementFormatter() // ensure the values have the correct symbol for the unit selected
         outputformatter.unitOptions = .providedUnit

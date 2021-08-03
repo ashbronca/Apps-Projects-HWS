@@ -49,11 +49,27 @@ extension View {
 struct ContentView: View {
     
     @State private var useRedText = true
+    
     var body: some View {
         Color.blue
             .frame(width: 300, height: 300)
             .watermarked(with: "Hacking With Swift")
         
+        Text("Hello World")
+            .modifier(Titles())
+    }
+}
+
+struct Titles: ViewModifier {
+    func body(content: Content) -> some View {
+        content
+            .font(.largeTitle)
+            .foregroundColor(.blue)    }
+}
+
+extension View {
+    func titleStyled() -> some View {
+        self.modifier(Titles())
     }
 }
 

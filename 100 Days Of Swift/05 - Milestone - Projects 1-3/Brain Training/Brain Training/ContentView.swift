@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
+    // Properties
     enum RPSOptions: String {
         case rock = "Rock"
         case paper = "Paper"
@@ -25,6 +25,7 @@ struct ContentView: View {
     @State private var showAlert = false
 
     var body: some View {
+        // View Code
         NavigationView{
             VStack(spacing: 20) {
                 Text("\(possibleMovesEmojis[appChoice])")
@@ -60,7 +61,7 @@ struct ContentView: View {
                 })
         }
     }
-    
+    // Methods
     func checkSelection(move: RPSOptions){
         if currentRound == 10 {
             gameOver()

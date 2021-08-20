@@ -55,7 +55,7 @@ struct ContentView: View {
                         .foregroundColor(tipPercentage == 4 ? Color.red : Color.black)
                 }
             }
-            .navigationBarTitle("WeSplit")
+            .navigationBarTitle("Split Bill")
         }
     }
 }

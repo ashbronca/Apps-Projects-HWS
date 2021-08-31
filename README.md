@@ -10,7 +10,9 @@ This app is a great utility to split bills at a restaurant, providing a tip as a
     Challenge Day 1 - Temp Converter
     
 This app converts temperatures.
-    
+
+<img src="https://user-images.githubusercontent.com/84573770/131426466-4a8cf318-8dad-4d25-b110-497385754414.mp4" alt="Temp Converter" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131426477-7c11585a-0ad0-4cdf-94f6-5a9cd9ed140e.png" alt="Temp Converter" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131426462-e7429400-1742-4e8f-b005-76d9a85bdcc6.png" alt="Temp Converter Dark" width="300" height="650"> 
+
     Project 2 - Flag Quiz
     
 This is a basic flag quiz.

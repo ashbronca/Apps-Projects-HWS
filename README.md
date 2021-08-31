@@ -16,6 +16,8 @@ This app converts temperatures.
     Project 2 - Flag Quiz
     
 This is a basic flag quiz.
+
+<img src="https://user-images.githubusercontent.com/84573770/131426958-875bf24e-3624-4c1e-8a5c-ce140392e157.mov" alt="Flag Quiz" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131426967-c14f3413-ffad-4222-990d-7f3dc11a0a40.png" alt="Flag Quiz" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131426941-18da1bb2-7464-4717-9783-a03873ee06c4.png" alt="Flag Quiz Dark" width="300" height="650"> 
     
     Project 3 - Views and Modifiers
     

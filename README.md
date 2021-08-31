@@ -26,6 +26,8 @@ This project demonstrated how views and modifiers work.
     Milstone 1 - Brain Training
     
 This app is a brain training app, providing logic to solve a problem.
+
+<img src="https://user-images.githubusercontent.com/84573770/131429467-93474d4c-3df9-4247-9ece-bc27db11f1df.mp4" alt="Rock.Paper.Scissors." width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131429480-44606528-750d-4a01-83dd-bbdfd0aa45c9.png" alt="Rock.Paper.Scissors." width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131429460-b87773e9-6627-4880-952a-26fc8a37ad6b.png" alt="Rock.Paper.Scissors. Dark" width="300" height="650"> 
     
     Project 4 - Wake-Up!
     

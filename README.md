@@ -29,7 +29,7 @@ This is a basic flag quiz.
     
 This project demonstrated how views and modifiers work.
     
-    Milstone 1 - Rock. Paper. Scissors.
+    Milestone 1 - Rock. Paper. Scissors.
     
 This app is a brain training app, providing logic to solve a problem.
 

@@ -1,4 +1,4 @@
-# iOS Development
+# iOS Development - Hacking With Swift
  iOS Development projects from the Hacking With Swift tutorials 
  
     Project 1 - Split Bill

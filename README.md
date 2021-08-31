@@ -32,6 +32,8 @@ This app is a brain training app, providing logic to solve a problem.
     Project 4 - Wake-Up!
     
 This is an adaption of the tutorial, I used the CoreML capability to create a wake-up app that checks against your sleep data.
+
+<img src="https://user-images.githubusercontent.com/84573770/131429972-c3acd763-a1ff-4f17-8507-dc923d4ec371.mp4" alt="Wakeup" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131430087-2eea79be-6194-4109-adb2-dd61ef7e026b.png" alt="Wakeup" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131429966-930cc2e2-d4ec-41be-968d-3be8618f4813.png" alt="Wakeup Dark" width="300" height="650"> 
     
     Project 5 - Word Scramble
     

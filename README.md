@@ -5,7 +5,9 @@
     
 This app is a great utility to split bills at a restaurant, providing a tip as an option.
 
-<img src="https://user-images.githubusercontent.com/84573770/131426037-cebf8a5f-e6ca-4851-aed9-9919896cb498.mp4" alt="Split Bill" width="300" height="650">      <img src="https://user-images.githubusercontent.com/84573770/131426046-6265809f-3aac-41fd-81fc-6a54efdc7334.png" alt="Split Bill" width="300" height="650"><img src="https://user-images.githubusercontent.com/84573770/131426029-41a467cf-aeab-41d2-833a-adb46f7c10a2.png" alt="Split Bill Dark" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131426037-cebf8a5f-e6ca-4851-aed9-9919896cb498.mp4" alt="Split Bill" width="300" height="650">      
+
+<img src="https://user-images.githubusercontent.com/84573770/131426046-6265809f-3aac-41fd-81fc-6a54efdc7334.png" alt="Split Bill" width="300" height="650"><img src="https://user-images.githubusercontent.com/84573770/131426029-41a467cf-aeab-41d2-833a-adb46f7c10a2.png" alt="Split Bill Dark" width="300" height="650">
     
     Challenge Day 1 - Temp Converter
     
